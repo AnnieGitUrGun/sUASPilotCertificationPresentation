@@ -1,4 +1,4 @@
-<div class="slide-bg-style"></div>
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[Agenda]
 
