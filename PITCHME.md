@@ -25,7 +25,7 @@
 #### Good question!
 
 ---
-@title[Why]
+@title[Why Get a Drone License - Part 1]
 
 ### Why Get a Drone License?
 #### Consider this...
@@ -38,7 +38,7 @@
 
 ---
 
-@title[Why Continued]
+@title[Why Get a Drone License - Part 2]
 
 ### Why Get a Drone License?
 
@@ -51,3 +51,37 @@
 ###### Legal obligations (FAA, local, state and federal laws, etc.)
 ###### Flight Operations (must have 2 people)
 ##### Operational Waivers
+
+---
+
+@title[Getting Your Drone License]
+
+### Getting Your Drone License
+#### Coursework and Flight training
+#### Training Options: Who, What, When, Where
+#### What you need to learn
+
+---
+
+@title[The FAA Test]
+
+### The FAA Test
+
+#### Knowledge Areas on the Tests
+The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:
+(1) Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
+(2) Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation;
+(3) Aviation weather sources and effects of weather on small unmanned aircraft performance;
+(4) Small unmanned aircraft loading;
+(5) Emergency procedures;
+(6) Crew resource management;
+(7) Radio communication procedures;
+(8) Determining the performance of small unmanned aircraft;
+(9) Physiological effects of drugs and alcohol;
+(10) Aeronautical decision-making and judgment;
+(11) Airport operations; and
+(12) Maintenance and preflight inspection procedures.
+
+All test questions are objective and multiple-choice. The minimum passing score is 70 percent. The UAG test contains 60 questions; you are allowed 2 hours to complete.
+
+---
