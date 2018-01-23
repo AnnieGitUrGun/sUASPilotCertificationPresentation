@@ -6,8 +6,8 @@
 ## Commercial Drone
 ## License
 
-##### Scott Jeffrey, Community College of Paltimore County <br>
-##### Anne Canoune, Century Engineering, Inc.
+Scott Jeffrey, Community College of Baltimore County <br>
+Anne Canoune, Century Engineering, Inc.
 
 ---?include=md/agenda.md
 
