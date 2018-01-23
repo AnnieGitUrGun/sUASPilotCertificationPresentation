@@ -2,20 +2,20 @@
   font-size: 0.6em;
 } */
 .slide-bg-style-left {
-  width: 150px;
+  width: 20%;
   height: 15px;
   background-color: #dd8047;
   top: 100px;
-  left: 0;
+  left: -30%;
   position: absolute;
 }
 
 .slide-bg-style-right {
-  width: auto;
+  width: 135%;
   height: 15px;
-  background-color: #dd8047;
+  background-color: #479add;
   top: 100px;
-  left: 5px;
+  left: -8%;
   position: absolute;
 }
 

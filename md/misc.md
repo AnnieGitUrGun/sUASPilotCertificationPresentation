@@ -1,4 +1,4 @@
----?image=assets/img/slide_bg.png
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[Miscellaneous]
 
