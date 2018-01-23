@@ -18,6 +18,8 @@
 ### The FAA Test
 ### Applying for your license
 
+Note:
+Remember to explain some stuff.
 ---
 
 @title[What is a Drone License]
