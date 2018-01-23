@@ -63,7 +63,7 @@
 
 ---
 
-@title[The FAA Test]
+@title[The FAA Test - Part 1]
 
 ### The FAA Test
 
@@ -85,3 +85,13 @@ The Unmanned Aircraft General – Small Airman knowledge test covers the followi
 All test questions are objective and multiple-choice. The minimum passing score is 70 percent. The UAG test contains 60 questions; you are allowed 2 hours to complete.
 
 ---
+
+@title[The FAA Test - Part 2]
+
+### The FAA Test Continued
+* FAA Regulations – 15-20%
+* Air Space and Flight Limitations – 8-15%
+* Weather – 11-16%
+* Drone Loading and Performance – 7-11%
+* Flight Operations 13-18%
+* Training Options: Who, What, When, Where
