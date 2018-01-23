@@ -1,4 +1,4 @@
-+++?image=assets/img/bg_1.png&size=cover
+<!-- .slide: data-background-image="assets/img/bg_1.png" data-background-size="cover" -->
 
 @title[Title]
 
