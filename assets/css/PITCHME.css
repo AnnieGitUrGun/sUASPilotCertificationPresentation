@@ -9,6 +9,9 @@
     margin-left: 0;
     margin-right: 0;
 }
+.reveal .slides .align-right {
+    text-align: right;
+}
 
 .slide-bg-style-left {
   width: 20%;
