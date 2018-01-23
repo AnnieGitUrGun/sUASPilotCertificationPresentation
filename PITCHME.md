@@ -106,9 +106,9 @@ All test questions are objective and multiple-choice. The minimum passing score 
 
 @title[Get In Touch]
 
-Scott Jeffrey
+Scott Jeffrey <br/><br/>
 sjeffrey@ccbcmd.edu
-
-Anne Canoune
-acanoune@centuryeng.com
+<br/><br/>
+Anne Canoune <br/><br/>
+acanoune@centuryeng.com <br/><br/>
 @fa[twitter-square] @AnnieGitUrGun
