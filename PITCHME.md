@@ -7,7 +7,7 @@
 ## License
 
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">14 CFR Part 107 - Commercial Use of Unmanned Aerial Vehicles</span>
----?image=assets/img/slide_bg.png&size=cover
+---?image=assets/img/slide_bg.png&size=contain
 
 @title[Agenda]
 
