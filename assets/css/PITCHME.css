@@ -2,9 +2,14 @@
   font-size: 0.6em;
 } */
 
-.present {
-  top: 0px;
+.reveal .slides {
+    text-align: left;
 }
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .slide-bg-style-left {
   width: 20%;
   height: 15px;
