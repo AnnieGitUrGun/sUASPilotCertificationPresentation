@@ -13,8 +13,8 @@
     text-align: right;
 }
 
-p {
-  font-size: 16px;
+.reveal p {
+  font-size: 36px;
 }
 .slide-bg-style-left {
   width: 20%;
