@@ -1,4 +1,4 @@
----?image=assets/img/bg_1.png.png&size=cover
+---?image=assets/img/bg_1.png&size=cover
 
 @title[Title]
 
