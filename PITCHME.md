@@ -121,4 +121,4 @@ sjeffrey@ccbcmd.edu
 <br/><br/>
 Anne Canoune <br/>
 acanoune@centuryeng.com <br/>
-@fa[twitter-square] AnnieGitUrGun
+@fa[twitter] AnnieGitUrGun
