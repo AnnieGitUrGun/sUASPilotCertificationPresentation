@@ -1,6 +1,10 @@
 /* .reveal {
   font-size: 0.6em;
 } */
+
+.present {
+  top: 0px;
+}
 .slide-bg-style-left {
   width: 20%;
   height: 15px;
