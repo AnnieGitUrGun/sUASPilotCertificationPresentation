@@ -95,3 +95,20 @@ All test questions are objective and multiple-choice. The minimum passing score 
 * Drone Loading and Performance – 7-11%
 * Flight Operations 13-18%
 * Training Options: Who, What, When, Where
+
+---
+
+@title[Questions & Discussion]
+
+### Questions & Discussion
+
+---
+
+@title[Get In Touch]
+
+Scott Jeffrey
+sjeffrey@ccbcmd.edu
+
+Anne Canoune
+acanoune@centuryeng.com
+@fa[twitter-square] @AnnieGitUrGun
