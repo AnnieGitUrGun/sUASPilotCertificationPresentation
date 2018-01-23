@@ -1,4 +1,4 @@
----?include=md/title.md
+---?include=md/title.md&image=assets/img/bg_1.png&size=cover
 
 ---?include=md/agenda.md
 
