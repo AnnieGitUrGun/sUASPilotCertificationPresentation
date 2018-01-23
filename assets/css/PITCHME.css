@@ -1,6 +1,11 @@
 /* .reveal {
   font-size: 0.6em;
 } */
+.slide-bg-style {
+  width: 500px;
+  height: 150px;
+  background-color: #dd8047;
+}
 .fa-twitter {
   color: #1da1f2;
 }
