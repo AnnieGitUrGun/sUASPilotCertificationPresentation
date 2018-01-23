@@ -116,9 +116,9 @@ https://www.faa.gov/training_testing/testing/supplements/media/sport_rec_private
 
 @title[Get In Touch]
 
-Scott Jeffrey <br/><br/>
+Scott Jeffrey <br/>
 sjeffrey@ccbcmd.edu
 <br/><br/>
-Anne Canoune <br/><br/>
-acanoune@centuryeng.com <br/><br/>
+Anne Canoune <br/>
+acanoune@centuryeng.com <br/>
 @fa[twitter-square] @AnnieGitUrGun
