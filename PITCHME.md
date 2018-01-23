@@ -1,13 +1,8 @@
 ---?include=md/title.md
 
 ---?include=md/agenda.md
----
 
-@title[What is a Drone License]
-
-#### Good question!
-
----
+---?include=md/whatisdronelicense.md
 @title[Why Get a Drone License - Part 1]
 
 ### Why Get a Drone License?
