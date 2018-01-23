@@ -109,7 +109,7 @@ All test questions are objective and multiple-choice. The minimum passing score 
 @title[Miscellaneous]
 
 ### Miscellaneous
-* <span style="font-size:0.6em; color:gray">[Airman Knowledge Testing Supplement for Sport Pilot, Recreational Pilot, and Private Pilot](https://www.faa.gov/training_testing/testing/supplements/media/sport_rec_private_akts.pdf)</span>
+<span style="font-size:0.6em; color:gray">* </span><span style="font-size:0.6em; color:gray">[Airman Knowledge Testing Supplement for Sport Pilot, Recreational Pilot, and Private Pilot](https://www.faa.gov/training_testing/testing/supplements/media/sport_rec_private_akts.pdf)</span>
 
 
 ---
