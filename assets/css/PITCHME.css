@@ -16,6 +16,11 @@
 .reveal p {
   font-size: 36px;
 }
+
+.reveal h6 {
+  font-size: 28px;
+}
+
 .slide-bg-style-left {
   width: 20%;
   height: 15px;
