@@ -1,7 +1,7 @@
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-
+<!-- <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div> -->
+---?image=assets/img/slide_bg.png
 @title[Agenda]
-### Agenda
+### The Agenda
 <ul>
 <li class="fragment">What is a drone license and what does it mean?</li>
 <li class="fragment">The Drone Licensing Experience:</li>
