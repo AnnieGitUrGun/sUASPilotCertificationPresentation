@@ -106,6 +106,12 @@ All test questions are objective and multiple-choice. The minimum passing score 
 
 ---
 
+@title[Miscellaneous]
+
+https://www.faa.gov/training_testing/testing/supplements/media/sport_rec_private_akts.pdf
+
+---
+
 @title[Get In Touch]
 
 Scott Jeffrey <br/><br/>
