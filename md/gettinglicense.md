@@ -28,6 +28,8 @@ You won't be graded on your flying ability but you should get some flying experi
 
 <br>
 
-![Logo](assets/img/logo_ccbc_2.png)
+![Logo](assets/img/logo_ccbc_2.png) | Offers course the last weekend of every month | [VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)
+![Logo](assets/img/logo_csmd.png) | Tues. & Thurs. in Spring 2018 | [AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)
+
 
 #### What you need to learn
