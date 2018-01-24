@@ -6,7 +6,7 @@
 
 <br>
 <div class="center">
-# Consider this...
+<span style="font-weight:600;">Consider this...</span>
 </div>
 
 +++
