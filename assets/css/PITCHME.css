@@ -62,7 +62,7 @@
   width: 55%;
 }
 
-.image-container {
+.reveal div.center {
   display: flex;
   justify-content: center;
 }

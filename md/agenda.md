@@ -5,7 +5,8 @@
 # The Agenda
 
 <br>
-
+<br>
+<div class="center">
 - What is a drone license and why get one? |
 <br>
 - The Drone Licensing Experience:          |
@@ -17,7 +18,7 @@
   - The FAA Test                           |
 <br>
   - Applying for your license              |
-
+</div>
 
 Note:
 Remember to explain some stuff.
