@@ -27,10 +27,24 @@ You won't be graded on your flying ability but you should get some flying experi
 #### Training Options: Who, What, When, Wheres
 
 <br>
-Location  | When | Course Number
---------- | ---- | -------------
-![Logo](assets/img/logo_ccbc_2.png) | Offers course the last weekend of every month | [VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)
-![Logo](assets/img/logo_csmd.png) | Tues. & Thurs. in Spring 2018 | [AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)
 
+<table>
+  <tr>
+    <th>Location</th>
+    <th>Link</th>
 
+  </tr>
+  <tr>
+    <td>![Logo](assets/img/logo_ccbc_2.png)</td>
+    <td>[VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</td>
+
+  </tr>
+  <tr class="fragment">
+    <td>![Logo](assets/img/logo_csmd.png)</td>
+    <td>[AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)</td>
+    <td>94</td>
+  </tr>
+</table>
+
++++
 #### What you need to learn
