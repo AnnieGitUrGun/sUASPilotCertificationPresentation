@@ -2,22 +2,27 @@
 
 @title[Getting Your Drone License]
 
-#### Getting Your Drone License
+# Getting Your Drone License
 
 <br>
 
-_**Who is eligible?**_
+###### _**Who is eligible?**_
 
-- Anyone 16 or older                                                              |
-- Be able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)                    |
-- Be in a physical and mental condition to safely operate a small UAS             |
-- Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center |
+<ul>
+  <li class="fragment"><span style="font-size: 26px;">Anyone 16 or older</span></li>
+  <li class="fragment"><span style="font-size: 26px;">Anyone able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)</span></li>
+  <li class="fragment"><span style="font-size: 26px;">Be in a physical and mental condition to safely operate a small UAS </span></li>
+  <li class="fragment"><span style="font-size: 26px;">Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center</span></li>
+</ul>
 
 <br>
 
-_**Does the test include a flying portion?**_
+###### _**Does the test include a flying portion?**_
 
-- No, you will not be required to actually operate a drone as part of the exam.   |
+<ul>
+  <li class="fragment"><span style="font-size: 26px;">No, you will not be required to actually operate a drone as part of the exam.</span></li>
+</ul>
+
 
 Note:
 You won't be graded on your flying ability but you should get some flying experience under your belt.
