@@ -67,4 +67,11 @@ Note:
 @title[Where to fly]
 
 Note:
-If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Military Operating Areas, National Security Areas, Restricted Airspace, Prohibited Airspace )
+If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Military Operating Areas, National Security Areas, Restricted Airspace, Prohibited Airspace)
+<br>
+Examples
+<br>
+![](http://www.airnav.com/airport/kbwi )
+![](https://skyvector.com/airport/BWI/Baltimore-Washington-International-Thurgood-Marshall-Airport )
+![](http://vfrmap.com/?type=vfrc&lat=39.1753488%20amp;lon=-76.6683307&zoom=10)
+![](http://aireform.com/airports-atc/faas-airports/faas-oep-35-airport-list/kbwi/)
