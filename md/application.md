@@ -10,7 +10,7 @@
   <li class="fragment"><span style="font-size: 28px;">Fill out application (FAA Form 8710-13) to get license</span></li>
   <li class="fragment"><span style="font-size: 28px;">FAA will issue a temporary license once the TSA security background check has been completed</span></li>
   <li class="fragment"><span style="font-size: 28px;">A permanent license is sent via mail after internal processing is complete</span></li>
-  <li class="fragment"><span style="font-size: 28px;">Your license is good for _**2 years**_ from the date of issue</span></li>
+  <li class="fragment"><span style="font-size: 28px;">Your license is good for <span style="font-weight:600;color:#dd8047;">2 years</span> from the date of issue</span></li>
 </ul>
 
 
