@@ -38,6 +38,8 @@
   - compensation      |
 
 </div>
+
++++
 #### Understanding the Flight Environment
 ##### Where can you fly?
 ###### Congested Air Space (Class A-G Airspace)
