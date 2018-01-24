@@ -5,13 +5,14 @@
 # Contact Us
 
 <br>
+<br>
 
-<span style="font-size:28px">Scott Jeffrey</span><br>
-<span style="font-size:28px">sjeffrey@ccbcmd.edu</span>
+<span style="font-size:28px;color:#cdcdcd;">Scott Jeffrey</span><br>
+<span style="font-size:28px;">sjeffrey@ccbcmd.edu</span>
 
-<br/>
-<br/>
+<br>
+<br>
 
-<span style="font-size:28px">Anne Canoune</span><br>
-<span style="font-size:28px">acanoune@centuryeng.com</span><br>
-<span style="font-size:28px">@fa[twitter] @AnnieGitUrGun</span>
+<span style="font-size:28px;">Anne Canoune</span><br>
+<span style="font-size:28px;">acanoune@centuryeng.com</span><br>
+<span style="font-size:28px;">@fa[twitter] @AnnieGitUrGun</span>
