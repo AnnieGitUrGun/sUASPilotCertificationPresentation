@@ -63,11 +63,14 @@ You won't be graded on your flying ability but you should get some flying experi
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[NAS]
-#### Congested Air Space (Class A-G Airspace)
+
+# Congested Air Space (Class A-G Airspace)
 
 <br>
 
+<div class="center">
 ![Logo](assets/img/airspace_chart.png)
+</div>
 
 Note:
 
