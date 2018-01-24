@@ -71,7 +71,7 @@ If you want to know where you can fly you have to consult the chart! Living in M
 <br>
 Examples
 <br>
-![f](http://www.airnav.com/airport/kbwi )
-![g](https://skyvector.com/airport/BWI/Baltimore-Washington-International-Thurgood-Marshall-Airport )
-![h](http://vfrmap.com/?type=vfrc&lat=39.1753488%20amp;lon=-76.6683307&zoom=10)
-![i](http://aireform.com/airports-atc/faas-airports/faas-oep-35-airport-list/kbwi/)
+[f](http://www.airnav.com/airport/kbwi )
+[g](https://skyvector.com/airport/BWI/Baltimore-Washington-International-Thurgood-Marshall-Airport )
+[h](http://vfrmap.com/?type=vfrc&lat=39.1753488%20amp;lon=-76.6683307&zoom=10)
+[i](http://aireform.com/airports-atc/faas-airports/faas-oep-35-airport-list/kbwi/)
