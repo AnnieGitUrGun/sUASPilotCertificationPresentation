@@ -10,7 +10,9 @@
   font-size: 28px;
 }
 
-
+li {
+  font-size: 28px;
+}
 .reveal .slides {
     text-align: left;
 }
