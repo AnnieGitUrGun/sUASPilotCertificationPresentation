@@ -28,7 +28,7 @@
 
 <br>
 
-[Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr)                                      |
+[Hobbyists can: @fa[external-link-alt]](https://www.faa.gov/uas/faqs/#ffr)
 - Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336) |
 - Fly under the Small UAS Rule (14 CFR part 107)                                         |
 
