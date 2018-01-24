@@ -6,7 +6,7 @@
 
 <br>
 
-##### _**Who is eligible?**_
+##### _**Eligibility**_
 
 <ul>
   <li class="fragment"><span style="font-size: 24px;">Anyone 16 or older</span></li>
