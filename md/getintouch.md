@@ -11,4 +11,4 @@ sjeffrey@ccbcmd.edu
 <br/><br/>
 Anne Canoune <br/>
 acanoune@centuryeng.com <br/>
-@fa[twitter] AnnieGitUrGun
+@fa[twitter] @AnnieGitUrGun
