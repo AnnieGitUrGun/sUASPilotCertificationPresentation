@@ -13,7 +13,6 @@
       <li class="fragment"><span style="font-size: 26px;">Public Relations and Operations</span></li>
     </ul>
   </li>
-  <br>
   <li class="fragment"><span style="font-size: 26px;">Considerations for Operations</span>
   <ul>
     <li class="fragment"><span style="font-size: 26px;">Liability Insurance: for flight operations, for drones, for operators</span></li>
