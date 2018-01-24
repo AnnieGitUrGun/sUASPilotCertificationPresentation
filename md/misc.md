@@ -2,7 +2,7 @@
 
 @title[Miscellaneous]
 
-#### Resources
+# Resources
 
 <br>
 

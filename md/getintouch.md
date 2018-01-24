@@ -1,8 +1,8 @@
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
-@title[Keep In Touch]
+@title[Contact Us]
 
-#### Keep in Touch
+# Contact Us
 
 <br>
 
