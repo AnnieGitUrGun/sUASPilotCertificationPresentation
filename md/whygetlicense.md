@@ -60,7 +60,7 @@
 
 Note:
 
-+++?image=assets/img/airchart.png
++++?image=assets/img/airchart.png&size=contain
 
 @title[Where to fly]
 
