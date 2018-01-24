@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td>Air Space and Flight Limitations</td>
-    <td>8-15%</td>
+    <td><span style="font-weight:600;">8-15%</span></td>
   </tr>
   <tr>
     <td>Weather</td>
-    <td>11-16%</td>
+    <td>**11-16%**</td>
   </tr>
   <tr>
     <td>Drone Loading and Performance</td>
