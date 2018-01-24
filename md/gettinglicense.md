@@ -6,13 +6,13 @@
 
 <br>
 
-_*Who is eligible?*_
+_**Who is eligible?**_
 
 Anyone 16 or older may take the Remote Pilot exam.
 
 <br>
 
-_*Does the test include a flying portion?*_
+_**Does the test include a flying portion?**_
 
 No, you will not be required to actually operate a drone as part of the exam.
 
