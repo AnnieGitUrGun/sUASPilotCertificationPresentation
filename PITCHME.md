@@ -16,11 +16,11 @@ Anne Canoune, Century Engineering, Inc.
 
 
 
----?image=assets/img/slide_bg.png
+
 @title[Agenda]
 ### The Agenda
 <ul>
-<li class="fragment">What is a drone license and what does it mean?</li>
+<li class="fragment">What is a drone license and why get one?</li>
 <li class="fragment">The Drone Licensing Experience:</li>
   <ul>
     <li class="fragment">What to expect and how to prepare</li>
