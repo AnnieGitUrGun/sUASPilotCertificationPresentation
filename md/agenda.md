@@ -1,5 +1,4 @@
-<!-- <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div> -->
----?image=assets/img/slide_bg.png
+
 @title[Agenda]
 ### The Agenda
 <ul>
