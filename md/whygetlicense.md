@@ -65,12 +65,4 @@ Note:
 @title[Where to fly]
 
 Note:
-If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Aberdeen Proving Ground, DC, )
-
-#### Sensitive Sites
-
-+++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-
-@title[Special Use Areas]
-#### Special Use Areas
+If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Military Operating Areas, National Security Areas, Restricted Airspace, Prohibited Airspace )
