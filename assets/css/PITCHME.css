@@ -27,14 +27,16 @@
   box-shadow: none;
 }
 
+.reveal div.left {
+    float: left;
+    z-index: -10;
+    width: 45%;
+}
+
 .reveal div.right {
-    left:31.25%;
-    top: 75px;
     float: right;
-    text-align: right;
-    z-index:-10;
-    width:50%;
-    font-size:75%;
+    z-index: -10;
+    width: 55%;
 }
 
 .image-container {
