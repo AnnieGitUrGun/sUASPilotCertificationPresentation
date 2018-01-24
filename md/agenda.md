@@ -7,17 +7,17 @@
 <br>
 <br>
 
-- What is a drone license and why get one? |
+<span style="font-size: 28px;">- What is a drone license and why get one? </span> |
 <br>
-- The Drone Licensing Experience:          |
+<span style="font-size: 28px;">- The Drone Licensing Experience:</span>           |
 <br>
-  - What to expect and how to prepare      |
+  <span style="font-size: 28px;">- What to expect and how to prepare</span>       |
 <br>
-  - Coursework and flight training         |
+  <span style="font-size: 28px;">- Coursework and flight training</span>          |
 <br>
-  - The FAA Test                           |
+  <span style="font-size: 28px;">- The FAA Test</span>                            |
 <br>
-  - Applying for your license              |
+  <span style="font-size: 28px;">- Applying for your license</span>               |
 
 
 Note:
