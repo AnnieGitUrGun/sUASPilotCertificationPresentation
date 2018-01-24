@@ -40,8 +40,11 @@
 
 <br>
 
-- The National Airspace System(NAS) includes both controlled and uncontrolled airspace |
-- You must understand this system if you want to obtain your license                   |
+- The National Airspace System (NAS) includes both controlled and uncontrolled airspace |
+
+<br>
+
+- You must understand this system if you want to obtain your license                    |
 
 +++?image=assets/img/airchart.png&size=cover
 
