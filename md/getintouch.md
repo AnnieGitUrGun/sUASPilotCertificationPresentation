@@ -6,16 +6,15 @@
 
 <br>
 
-Scott Jeffrey
+#### Scott Jeffrey
 <br/>
-sjeffrey@ccbcmd.edu
+#### sjeffrey@ccbcmd.edu
 
 <br/>
-
 <br/>
 
-Anne Canoune
+#### Anne Canoune
 <br/>
-acanoune@centuryeng.com
+#### acanoune@centuryeng.com
 <br/>
-@fa[twitter] @AnnieGitUrGun
+#### @fa[twitter] @AnnieGitUrGun
