@@ -50,6 +50,9 @@ You won't be graded on your flying ability but you should get some flying experi
     <td></td>
   </tr>
 </table>
+| Location | Link | Notes |
+| ------- | ---- | ------ |
+| ![Logo](assets/img/logo_carcc.png)  | [Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)  | |
 
 +++
 #### What you need to learn
