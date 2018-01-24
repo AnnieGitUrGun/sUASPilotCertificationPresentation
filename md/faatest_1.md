@@ -2,13 +2,13 @@
 
 @title[The FAA Test - Part 1]
 
-#### The FAA Test
+# The FAA Test
 
 <br>
 
-Knowledge Areas on the Tests
+##### Knowledge Areas on the Tests
 
-The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:
+<span style="font-size:28px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
 1. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation;
 2. Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation;
 3. Aviation weather sources and effects of weather on small unmanned aircraft performance;
