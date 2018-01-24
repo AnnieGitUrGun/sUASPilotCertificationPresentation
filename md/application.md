@@ -4,8 +4,6 @@
 
 # Applying for Your License
 
-<br>
-
 <ul>
   <br>
   <li class="fragment"><span style="font-size: 28px;">Register and login to [IACRA](https://iacra.faa.gov/IACRA/Default.aspx)</span></li>
