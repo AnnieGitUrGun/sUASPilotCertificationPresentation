@@ -17,15 +17,15 @@
 
 @title[Commercial v Hobby]
 
-#### Licensed (Commercial) Drone Operation vs. Hobbyists
+#### Commercial Drone Operation vs. Hobbyists
 
 <br>
 
 <div class="left">
 
-- one
-- two
-- three
+- one   |
+- two   |
+- three |
 
 </div>
 
