@@ -73,8 +73,14 @@
 .reveal div.center {
   z-index: -10;
   margin: 20% 35%;
-
 }
+
+.reveal div.center-img {
+  z-index: -10;
+  width: 55%;
+  margin: 15% 25%;
+}
+
 .slide-bg-style-left {
   width: 20%;
   height: 15px;

@@ -68,7 +68,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 <br>
 
-<div class="center">
+<div class="center-img">
 ![Logo](assets/img/airspace_chart.png)
 </div>
 
