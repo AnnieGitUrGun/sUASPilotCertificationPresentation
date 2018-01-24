@@ -38,5 +38,5 @@
 </ol>
 
 <ul>
-  <li class="fragment"><span style="font-size:20px;">All test questions are objective and multiple-choice. **The minimum passing score is 70 percent.** The test contains 60 questions; you are allowed 2 hours to complete.</span></li>
+  <li class="fragment"><span style="font-size:20px;">All test questions are objective and multiple-choice. **The minimum passing score is <span style="color:#dd8047;">70</span> percent.** The test contains 60 questions; you are allowed 2 hours to complete.</span></li>
 </ul>
