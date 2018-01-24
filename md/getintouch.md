@@ -6,12 +6,12 @@
 
 <br>
 
-<span style="font-size:28px">Scott Jeffrey</span>
+<span style="font-size:28px">Scott Jeffrey</span><br>
 <span style="font-size:28px">sjeffrey@ccbcmd.edu</span>
 
 <br/>
 <br/>
 
-<span style="font-size:28px">Anne Canoune</span>
-<span style="font-size:28px">acanoune@centuryeng.com</span>
+<span style="font-size:28px">Anne Canoune</span><br>
+<span style="font-size:28px">acanoune@centuryeng.com</span><br>
 <span style="font-size:28px">@fa[twitter] @AnnieGitUrGun</span>
