@@ -10,4 +10,4 @@
 - Fill out application to get license
 - FAA will issue a temporary license while they conduct a background check
 - The process will take several weeks
-- **Your license is good for 2 years from the date of issue**  
+- Your license is good for _**2 years**_ from the date of issue
