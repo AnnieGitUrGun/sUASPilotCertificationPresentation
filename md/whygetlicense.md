@@ -38,6 +38,10 @@
 @title[Flight Environment]
 #### Understanding the Flight Environment
 
+<br>
+
+#### Where can you fly?
+
 +++?image=assets/img/airchart.png&size=cover
 
 @title[Where to fly]
