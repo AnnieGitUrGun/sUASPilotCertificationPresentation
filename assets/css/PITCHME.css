@@ -41,7 +41,9 @@
 .reveal .slides .align-right {
     text-align: right;
 }
-
+.reveal .slides section .fragment.visible {
+  font-size: 28px;
+}
 .reveal section img {
   border: 0;
   box-shadow: none;
