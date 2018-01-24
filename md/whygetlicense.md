@@ -21,14 +21,14 @@
 
 <br>
 
-[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb) @fa[external-link-alt]
+[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb) @fa[external-link]
 - Fly under the Small UAS Rule (14 CFR part 107)          |
 - Follow the rules in Section 333 grant of exemption      |
 - Obtain an airworthiness certificate for the Aircraft    |
 
 <br>
 
-[Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr) @fa[external-link-alt]
+[Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr) @fa[external-link]
 - Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336) |
 - Fly under the Small UAS Rule (14 CFR part 107)                                         |
 
