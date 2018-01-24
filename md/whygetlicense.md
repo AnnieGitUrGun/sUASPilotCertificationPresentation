@@ -38,15 +38,13 @@
 @title[Flight Environment]
 #### Understanding the Flight Environment
 
-+++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
++++?image=assets/img/airchart.png&size=cover
 
 @title[Where to fly]
-#### Where can you fly?
 
-<br>
+Note:
+If you want to know where you can fly you have to consult the chart!
 
-![Logo](assets/img/airchart.png)
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
