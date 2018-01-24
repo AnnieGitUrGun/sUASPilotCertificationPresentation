@@ -6,4 +6,6 @@
 
 <br>
 
+![Logo](assets/img/remotpilotlicense.png)
+
 - The FAA Remote Pilot Certificate (a.k.a. Drone License) allows operators to fly a UAS for work, business, or non-recreational reasons.
