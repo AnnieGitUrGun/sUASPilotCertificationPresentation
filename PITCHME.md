@@ -10,9 +10,10 @@
 <br>
 <br>
 <br>
-### Scott Jeffrey, Community College of Baltimore County
 <br>
-### Anne Canoune, Century Engineering, Inc.
+<br>
+#### Scott Jeffrey, Community College of Baltimore County
+#### Anne Canoune, Century Engineering, Inc.
 
 
 ---?include=md/agenda.md
