@@ -46,12 +46,7 @@
 
 - You must understand this system if you want to obtain your license                    |
 
-+++?image=assets/img/airchart.png&size=cover
 
-@title[Where to fly]
-
-Note:
-If you want to know where you can fly you have to consult the chart!
 
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
@@ -62,10 +57,16 @@ If you want to know where you can fly you have to consult the chart!
 <br>
 
 ![Logo](assets/img/airspace_chart.png)
-+++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
-@title[Sensitive Sites]
+Note:
+
++++?image=assets/img/airchart.png
+
+@title[Where to fly]
+
+Note:
+If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Aberdeen Proving Ground, DC, )
+
 #### Sensitive Sites
 
 +++
