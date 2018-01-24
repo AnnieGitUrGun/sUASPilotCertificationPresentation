@@ -6,7 +6,7 @@
 
 <br>
 
-<table style="font-size:20px;">
+<table style="font-size:38px;">
   <tr>
     <td>FAA Regulations</td>
     <td>**15-20%**</td>
