@@ -32,7 +32,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[Training Options]
 
-#### A Few Training Options
+# A Few Training Options
 
 <br>
 <br>
