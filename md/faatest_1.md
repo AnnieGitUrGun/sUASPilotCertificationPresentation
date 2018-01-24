@@ -16,6 +16,19 @@
   <li class="fragment"><span style="font-size: 16px;">Small unmanned aircraft loading</span></li>
   <li class="fragment"><span style="font-size: 16px;">Emergency procedures</span></li>
   <li class="fragment"><span style="font-size: 16px;">Crew resource management</span></li>
+</ol>  
+
+
++++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[Knowledge Areas - Continued]
+
+# Knowledge Areas - Continued
+
+<br>
+
+<ol>
   <li class="fragment"><span style="font-size: 16px;">Radio communication procedures</span></li>
   <li class="fragment"><span style="font-size: 16px;">Determining the performance of small unmanned aircraft</span></li>
   <li class="fragment"><span style="font-size: 16px;">Physiological effects of drugs and alcohol</span></li>
@@ -24,4 +37,4 @@
   <li class="fragment"><span style="font-size: 16px;">Maintenance and preflight inspection procedures</span></li>  
 </ol>
 
-All test questions are objective and multiple-choice. The minimum passing score is 70 percent. The UAG test contains 60 questions; you are allowed 2 hours to complete.
+<span style="font-size:20px;">All test questions are objective and multiple-choice. The minimum passing score is 70 percent. The UAG test contains 60 questions; you are allowed 2 hours to complete.</span>
