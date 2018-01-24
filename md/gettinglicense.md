@@ -35,17 +35,17 @@ You won't be graded on your flying ability but you should get some flying experi
     <th>Notes</th>
   </tr>
   <tr>
-    <td><img src="/assets/img/logo_carcc.png" alt="CCC" /></td>
+    <td><img src="/assets/img/logo_carcc.png" alt="CCC" title="title"/></td>
     <td><a href="https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309">Drone Pilot Training Program</a></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="assets/img/logo_ccbc_2.png" alt="CCBC" /></td>
+    <td><img src="assets/img/logo_ccbc_2.png" alt="CCBC" title="title"/></td>
     <td><a href="https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE">VOA 103</a></td>
     <td>Search for Remote Pilot</td>
   </tr>
   <tr>
-    <td><img src="assets/img/logo_csmd.png" alt="CSMD" /></td>
+    <td><img src="assets/img/logo_csmd.png" alt="CSMD" title="title"/></td>
     <td><a href="https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE">AVN-5020</a></td>
     <td></td>
   </tr>
