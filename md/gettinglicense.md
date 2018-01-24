@@ -36,4 +36,35 @@ You won't be graded on your flying ability but you should get some flying experi
 
 
 +++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
 #### What you need to learn
+
+<br>
+
+- The National Airspace System (NAS) includes both controlled and uncontrolled airspace |
+
+<br>
+
+- You must understand this system if you want to obtain your license                    |
+
+
+
++++
+
+
+@title[NAS]
+#### Congested Air Space (Class A-G Airspace)
+
+<br>
+
+![Logo](assets/img/airspace_chart.png)
+
+Note:
+
++++?image=assets/img/airchart.png&size=contain
+
+@title[Where to fly]
+
+Note:
+If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Military Operating Areas, National Security Areas, Restricted Airspace, Prohibited Airspace )

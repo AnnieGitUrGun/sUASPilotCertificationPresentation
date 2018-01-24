@@ -40,29 +40,8 @@
 
 <br>
 
-- The National Airspace System (NAS) includes both controlled and uncontrolled airspace |
+- We are in one of the most congested airspaces in the world.                                           |
 
-<br>
+- ![There are 255 airports in Maryland](http://ourairports.com/countries/US/MD/)                        |
 
-- You must understand this system if you want to obtain your license                    |
-
-
-
-+++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-
-@title[NAS]
-#### Congested Air Space (Class A-G Airspace)
-
-<br>
-
-![Logo](assets/img/airspace_chart.png)
-
-Note:
-
-+++?image=assets/img/airchart.png&size=contain
-
-@title[Where to fly]
-
-Note:
-If you want to know where you can fly you have to consult the chart! Living in MD we have many sensitive and special use areas (e.g. Military Operating Areas, National Security Areas, Restricted Airspace, Prohibited Airspace )
+- Our proximity to Washington, D.C. and military sites makes things even more complicated.              |
