@@ -41,7 +41,7 @@
 .reveal .slides .align-right {
     text-align: right;
 }
-.reveal ul {
+.reveal ul, ol {
   list-style-type: none;
 }
 .reveal ul ul {
