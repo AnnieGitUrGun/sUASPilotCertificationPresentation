@@ -1,9 +1,9 @@
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-<!-- .slide: class="center" -->
+
 @title[Why Get a Drone License - Part 1]
 
 # Why Get a Drone License?
-
+<!-- .slide: class="center" -->
 <br>
 
 # Consider this...
