@@ -24,20 +24,15 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[Training Options]
 
-#### Training Options: Who, What, When, Wheres
+#### A Few Training Options
 
 <br>
 
 ![Logo](assets/img/logo_carcc.png)&nbsp;&nbsp;&nbsp;&nbsp;[Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)
 
-<br>
-
 ![Logo](assets/img/logo_ccbc_2.png)&nbsp;&nbsp;&nbsp;&nbsp;[VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)
 
-<br>
-
 ![Logo](assets/img/logo_csmd.png)&nbsp;&nbsp;&nbsp;&nbsp;[AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)
-
 
 
 +++
