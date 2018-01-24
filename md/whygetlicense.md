@@ -49,6 +49,6 @@
 
 <ul>
   <li class="fragment"><span style="font-size: 28px;">We are in one of the most congested airspaces in the world</span></li>
-  <li class="fragment"><span style="font-size: 28px;">![There are 255 airports in Maryland](http://ourairports.com/countries/US/MD/)</span></li>
+  <li class="fragment"><span style="font-size: 28px;"><a href="http://ourairports.com/countries/US/MD/">There are 255 airports in Maryland</a></span></li>
   <li class="fragment"><span style="font-size: 28px;">Our proximity to Washington, D.C. and military sites makes things even more complicated</span></li>
 </ul>
