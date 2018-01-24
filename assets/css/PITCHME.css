@@ -27,6 +27,10 @@
   box-shadow: none;
 }
 
+.image-container {
+  display: flex;
+  justify-content: center;
+}
 .slide-bg-style-left {
   width: 20%;
   height: 15px;
