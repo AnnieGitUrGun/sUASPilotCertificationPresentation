@@ -2,17 +2,17 @@
 
 @title[Title]
 
-## Getting Your
-## Commercial Drone License
+# Getting Your
+# Commercial Drone License
 <br>
-###### 14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles
-<br>
-<br>
+## 14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles
 <br>
 <br>
-Scott Jeffrey, Community College of Baltimore County
 <br>
-Anne Canoune, Century Engineering, Inc.
+<br>
+### Scott Jeffrey, Community College of Baltimore County
+<br>
+### Anne Canoune, Century Engineering, Inc.
 
 
 ---?include=md/agenda.md
