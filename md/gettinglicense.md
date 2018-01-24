@@ -28,5 +28,6 @@ You won't be graded on your flying ability but you should get some flying experi
 
 <br>
 
-CCBC -
+![Logo](assets/img/logo_ccbc_2.png)
+
 #### What you need to learn
