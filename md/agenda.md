@@ -2,16 +2,21 @@
 
 @title[Agenda]
 
-#### The Agenda
+# The Agenda
 
 <br>
 
-- What is a drone license and why get one? |
-- The Drone Licensing Experience:          |
-  - What to expect and how to prepare      |
-  - Coursework and Flight training         |
-  - The FAA Test                           |
-  - Applying for your license              |
+## - What is a drone license and why get one? |
+<br>
+## - The Drone Licensing Experience:          |
+<br>
+  ## - What to expect and how to prepare      |
+<br>
+  ## - Coursework and flight training         |
+<br>
+  ## - The FAA Test                           |
+<br>
+  ## - Applying for your license              |
 
 
 Note:
