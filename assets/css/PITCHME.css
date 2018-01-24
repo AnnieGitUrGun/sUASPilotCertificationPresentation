@@ -41,9 +41,12 @@
 .reveal .slides .align-right {
     text-align: right;
 }
-/* .reveal .slides section .fragment.visible {
-  font-size: 28px;
-} */
+.reveal ul {
+  list-style-type: none;
+}
+.reveal ul ul {
+  list-style-type: none;
+}
 .reveal section img {
   border: 0;
   box-shadow: none;
