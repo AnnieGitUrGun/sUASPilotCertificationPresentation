@@ -9,7 +9,6 @@
 <ul>
   <br>
   <li class="fragment"><span style="font-size: 28px;">Register and login to [IACRA](https://iacra.faa.gov/IACRA/Default.aspx)</span></li>
-  <br>
   <li class="fragment"><span style="font-size: 28px;">Fill out application (FAA Form 8710-13) to get license</span></li>
   <li class="fragment"><span style="font-size: 28px;">FAA will issue a temporary license once the TSA security background check has been completed</span></li>
   <li class="fragment"><span style="font-size: 28px;">A permanent license is sent via mail after internal processing is complete</span></li>
