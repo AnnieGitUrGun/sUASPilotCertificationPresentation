@@ -6,14 +6,14 @@
 
 <br>
 
-<table>
+<table style="font-size:20px;">
   <tr>
     <td>FAA Regulations</td>
-    <td>15-20%</td>
+    <td>**15-20%**</td>
   </tr>
   <tr>
     <td>Air Space and Flight Limitations</td>
-    <td><span style="font-weight:600;">8-15%</span></td>
+    <td>**8-15%**</td>
   </tr>
   <tr>
     <td>Weather</td>
@@ -21,10 +21,10 @@
   </tr>
   <tr>
     <td>Drone Loading and Performance</td>
-    <td>7-11%</td>
+    <td>**7-11%**</td>
   </tr>
   <tr>
     <td>Flight Operations</td>
-    <td>13-18%</td>
+    <td>**13-18%**</td>
   </tr>
 </table>
