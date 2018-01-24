@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- <span style="font-size: 30px;">What is a drone license and why get one?</span> |
+- What is a drone license and why get one? |
 <br>
 - The Drone Licensing Experience:          |
 <br>
