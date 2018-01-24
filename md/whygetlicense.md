@@ -33,8 +33,34 @@
 - Fly under the Small UAS Rule (14 CFR part 107)                                         |
 
 +++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[Flight Environment]
 #### Understanding the Flight Environment
-##### Where can you fly?
-###### Congested Air Space (Class A-G Airspace)
-###### Sensitive Sites
-###### Special Use Areas
+
++++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[Where to fly]
+#### Where can you fly?
+
++++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[NAS]
+#### Congested Air Space (Class A-G Airspace)
+
+<br>
+
+![Logo](assets/img/airspace_chart.png)
++++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[Sensitive Sites]
+#### Sensitive Sites
+
++++
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
+@title[Special Use Areas]
+#### Special Use Areas
