@@ -18,21 +18,23 @@
 
 @title[Commercial v Hobby]
 
-#### Commercial Drone Operation vs. Hobbyists
+# Commercial Drone Operation vs. Hobbyists
 
 <br>
 
 [Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
-- Fly under the Small UAS Rule (14 CFR part 107)          |
-- Follow the rules in Section 333 grant of exemption      |
-- Obtain an airworthiness certificate for the Aircraft    |
-
+<ul>
+  <li class="fragment"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span> </li>
+  <li class="fragment"><span style="font-size: 28px;">Follow the rules in Section 333 grant of exemption</span></li>
+  <li class="fragment"><span style="font-size: 28px;">Obtain an airworthiness certificate for the Aircraft</span></li>
+</ul>
 <br>
 
 [Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr)
-- Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336) |
-- Fly under the Small UAS Rule (14 CFR part 107)                                         |
-
+<ul>
+  <li class="fragment"><span style="font-size: 28px;">Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336)</span></li>
+  <li class="fragment"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span></li>
+</ul>
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
