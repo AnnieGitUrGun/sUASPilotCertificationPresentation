@@ -2,6 +2,8 @@
 
 @title[What is a Drone License]
 
-#### Good question!
+#### What is a Drone License?
 
----
+<br>
+
+- The FAA Remote Pilot Certificate (a.k.a. Drone License) allows operators to fly a UAS for work, business, or non-recreational reasons.
