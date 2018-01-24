@@ -28,28 +28,16 @@ You won't be graded on your flying ability but you should get some flying experi
 
 <br>
 
-<table>
-  <tr>
-    <th>Location</th>
-    <th>Link</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>[<img src="/assets/img/logo_carcc.png" alt="CCC" title="title"/>]</td>
-    <td><a href="https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309">Drone Pilot Training Program</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="assets/img/logo_ccbc_2.png" alt="CCBC" title="title"/></td>
-    <td><a href="https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE">VOA 103</a></td>
-    <td>Search for Remote Pilot</td>
-  </tr>
-  <tr>
-    <td><img src="assets/img/logo_csmd.png" alt="CSMD" title="title"/></td>
-    <td><a href="https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE">AVN-5020</a></td>
-    <td></td>
-  </tr>
-</table>
+![Logo](assets/img/logo_carcc.png)  [Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)
+
+<br>
+
+![Logo](assets/img/logo_ccbc_2.png) [VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)
+
+<br>
+
+![Logo](assets/img/logo_csmd.png) [AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)
+
 
 
 +++
