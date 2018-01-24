@@ -6,8 +6,8 @@
 
 <br>
 <br>
-<div class="center">
-- What is a drone license and why get one? |
+
+- <span style="font-size: 30px;">What is a drone license and why get one?</span> |
 <br>
 - The Drone Licensing Experience:          |
 <br>
@@ -18,7 +18,7 @@
   - The FAA Test                           |
 <br>
   - Applying for your license              |
-</div>
+
 
 Note:
 Remember to explain some stuff.
