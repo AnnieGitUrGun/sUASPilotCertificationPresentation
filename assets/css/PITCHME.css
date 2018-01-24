@@ -3,26 +3,32 @@
 */
 .reveal h1 {
   font-size: 40px;
+  color: #dd8047;
 }
 
 .reveal h2 {
-  font-size: 32px
+  font-size: 32px;
+  color: #dd8047;
 }
 
 .reveal h3 {
-  font-size: 28px
+  font-size: 28px;
+  color: #dd8047;
 }
 
 .reveal h4 {
-  font-size: 24px
+  font-size: 24px;
+  color: #dd8047;
 }
 
 .reveal h5 {
-  font-size: 20px
+  font-size: 20px;
+  color: #dd8047;
 }
 
 .reveal h6 {
   font-size: 16px;
+  color: #dd8047;
 }
 
 .reveal p {

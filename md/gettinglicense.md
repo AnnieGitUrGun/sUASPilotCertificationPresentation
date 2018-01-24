@@ -37,11 +37,11 @@ You won't be graded on your flying ability but you should get some flying experi
 <br>
 <br>
 
-![Logo](assets/img/logo_carcc.png)<span style="font-size:28px;padding-left:20px;">[Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
+<span style="font-size:28px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
 
-![Logo](assets/img/logo_ccbc_2.png)<span style="font-size:28px;padding-left:20px;">[VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
+<span style="font-size:28px;">[CCBC - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
 
-![Logo](assets/img/logo_csmd.png)<span style="font-size:28px;padding-left:20px;">[AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)</span>
+<span style="font-size:28px;">[CSM - AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)</span>
 
 
 +++
