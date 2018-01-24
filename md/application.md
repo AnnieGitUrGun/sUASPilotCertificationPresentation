@@ -7,8 +7,9 @@
 <br>
 
 - Register and login to [IACRA](https://iacra.faa.gov/IACRA/Default.aspx)
-- Fill out application to get license
-- FAA will issue a temporary license while they conduct a background check
+- Fill out application (FAA Form 8710-13) to get license
+- FAA will issue a temporary license once the TSA security background check has been completed
+- A permanent license is sent via mail after internal processing is complete
 - Your license is good for _**2 years**_ from the date of issue
 
 Note:

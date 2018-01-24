@@ -8,7 +8,10 @@
 
 _**Who is eligible?**_
 
-  Anyone 16 or older may take the Remote Pilot exam.                              |
+- Anyone 16 or older                                                              |
+- Be able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)                    |
+- Be in a physical and mental condition to safely operate a small UAS             |
+- Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center |
 
 <br>
 
@@ -51,7 +54,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 
 +++
-
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[NAS]
 #### Congested Air Space (Class A-G Airspace)
@@ -71,7 +74,7 @@ If you want to know where you can fly you have to consult the chart! Living in M
 <br>
 Examples
 <br>
-[f](http://www.airnav.com/airport/kbwi )
-[g](https://skyvector.com/airport/BWI/Baltimore-Washington-International-Thurgood-Marshall-Airport )
-[h](http://vfrmap.com/?type=vfrc&lat=39.1753488%20amp;lon=-76.6683307&zoom=10)
-[i](http://aireform.com/airports-atc/faas-airports/faas-oep-35-airport-list/kbwi/)
+[AirNav](http://www.airnav.com/airport/kbwi )
+[SkyVector](https://skyvector.com/airport/BWI/Baltimore-Washington-International-Thurgood-Marshall-Airport )
+[VFRMap](http://vfrmap.com/?type=vfrc&lat=39.1753488%20amp;lon=-76.6683307&zoom=10)
+[Aviation Impact Reform](http://aireform.com/airports-atc/faas-airports/faas-oep-35-airport-list/kbwi/)
