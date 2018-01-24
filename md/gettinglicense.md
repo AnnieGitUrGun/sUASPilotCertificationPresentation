@@ -20,7 +20,7 @@
 ##### _**Does the test include a flying portion?**_
 
 <ul>
-  <li class="fragment"><span style="font-size: 24px;">No, you will not be required to actually operate a drone as part of the exam.</span></li>
+  <li class="fragment"><span style="font-size: 24px;">No, you will not be required to actually operate a drone as part of the exam</span></li>
 </ul>
 
 
@@ -47,16 +47,15 @@ You won't be graded on your flying ability but you should get some flying experi
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
-#### What you need to learn
+# What you need to learn
 
 <br>
 
-- The National Airspace System (NAS) includes both controlled and uncontrolled airspace |
-
-<br>
-
-- You must understand this system if you want to obtain your license                    |
-
+<ul>
+  <li class="fragment"><span style="font-size: 28px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
+  <br>
+  <li class="fragment"><span style="font-size: 28px;">You must understand this system if you want to obtain your license </span></li>
+</ul>
 
 
 +++
