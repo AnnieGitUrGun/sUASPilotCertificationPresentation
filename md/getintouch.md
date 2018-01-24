@@ -1,14 +1,21 @@
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
-@title[Get In Touch]
+@title[Keep In Touch]
 
-#### Get in Touch
+#### Keep in Touch
 
 <br>
 
-Scott Jeffrey <br/>
+Scott Jeffrey
+<br/>
 sjeffrey@ccbcmd.edu
-<br/><br/>
-Anne Canoune <br/>
-acanoune@centuryeng.com <br/>
+
+<br/>
+
+<br/>
+
+Anne Canoune
+<br/>
+acanoune@centuryeng.com
+<br/>
 @fa[twitter] @AnnieGitUrGun

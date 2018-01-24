@@ -17,7 +17,7 @@ _**Who is eligible?**_
 
 _**Does the test include a flying portion?**_
 
-  No, you will not be required to actually operate a drone as part of the exam.   |
+- No, you will not be required to actually operate a drone as part of the exam.   |
 
 Note:
 You won't be graded on your flying ability but you should get some flying experience under your belt.
