@@ -37,16 +37,18 @@
   <li class="fragment"><span style="font-size: 28px;">Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336)</span></li>
   <li class="fragment"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span></li>
 </ul>
+
+
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[Flight Environment]
-#### Understanding the Flight Environment
+# Understanding the Flight Environment
 
 <br>
 
-- We are in one of the most congested airspaces in the world.                                           |
-
-- ![There are 255 airports in Maryland](http://ourairports.com/countries/US/MD/)                        |
-
-- Our proximity to Washington, D.C. and military sites makes things even more complicated.              |
+<ul>
+  <li class="fragment"><span style="font-size: 28px;">We are in one of the most congested airspaces in the world</span></li>
+  <li class="fragment"><span style="font-size: 28px;">![There are 255 airports in Maryland](http://ourairports.com/countries/US/MD/)</span></li>
+  <li class="fragment"><span style="font-size: 28px;">Our proximity to Washington, D.C. and military sites makes things even more complicated</span></li>
+</ul>
