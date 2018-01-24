@@ -1,12 +1,12 @@
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-
+<!-- .slide: class="center" -->
 @title[Why Get a Drone License - Part 1]
 
-#### Why Get a Drone License?
+# Why Get a Drone License?
 
 <br>
 
-#### Consider this...
+# Consider this...
 
 +++
 @title[Flight Aware]
