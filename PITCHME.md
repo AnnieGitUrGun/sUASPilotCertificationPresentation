@@ -2,18 +2,18 @@
 
 @title[Title]
 <br>
-# <span style="color:#fff;">Getting Your</span>
-# <span style="color:#fff;">Commercial Drone License</span>
+# <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Getting Your</span>
+# <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Commercial Drone License</span>
 <br>
-## <span style="color:#fff;">14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles</span>
-<br>
-<br>
+## <span style="color:#fff;text-shadow: 2px 2px #5b6269;">14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles</span>
 <br>
 <br>
 <br>
 <br>
-#### <span style="color:#fff;">Scott Jeffrey, Community College of Baltimore County</span>
-#### <span style="color:#fff;">Anne Canoune, Century Engineering, Inc.</span>
+<br>
+<br>
+#### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Scott Jeffrey, Community College of Baltimore County</span>
+#### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Anne Canoune, Century Engineering, Inc.</span>
 
 
 ---?include=md/agenda.md
