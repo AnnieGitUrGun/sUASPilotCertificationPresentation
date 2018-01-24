@@ -22,7 +22,10 @@
     text-align: right;
 }
 
-
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
 
 .slide-bg-style-left {
   width: 20%;
