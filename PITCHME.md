@@ -2,7 +2,7 @@
 
 @title[Title]
 <br>
-# Getting Your
+# <span style="color:#fff;">Getting Your</span>
 # Commercial Drone License
 <br>
 ## 14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles
