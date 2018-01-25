@@ -12,6 +12,7 @@
 <br>
 <br>
 <br>
+<br>
 #### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Scott Jeffrey, Community College of Baltimore County</span>
 #### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Anne Canoune, Century Engineering, Inc.</span>
 
