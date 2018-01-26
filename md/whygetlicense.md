@@ -19,8 +19,6 @@
 
 ### <span class="orange">Commercial Operation vs. Hobbyist</span>
 
-<br>
-
 <ul>
   <li class="no-bullet">[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
     <ul>
@@ -43,7 +41,7 @@
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 
 @title[Flight Environment]
-# Understanding the Flight Environment
+### Understanding the Flight Environment
 
 <br>
 
