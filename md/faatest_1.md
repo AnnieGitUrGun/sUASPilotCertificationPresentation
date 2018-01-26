@@ -6,15 +6,15 @@
 <br>
 ##### Knowledge Areas on the Tests
 
-<span style="font-size:20px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
-<ol>
-  <li><span style="font-size: 18px;">Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation</span></li>
-  <li><span style="font-size: 18px;">Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation</span></li>
-  <li><span style="font-size: 18px;">Aviation weather sources and effects of weather on small unmanned aircraft performance</span></li>
-  <li><span style="font-size: 18px;">Small unmanned aircraft loading</span></li>
-  <li><span style="font-size: 18px;">Emergency procedures</span></li>
-  <li><span style="font-size: 18px;">Crew resource management</span></li>
-</ol>  
+<span style="font-size:32px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
+<ul>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Aviation weather sources and effects of weather on small unmanned aircraft performance</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Small unmanned aircraft loading</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Emergency procedures</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 20px;">Crew resource management</span></li>
+</ul>  
 
 
 +++
