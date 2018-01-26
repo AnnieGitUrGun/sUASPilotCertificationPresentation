@@ -2,7 +2,7 @@
 
 @title[Applying for Your License]
 
-#### Applying for Your License
+#### <span class="orange">Applying for Your License</span>
 
 <ul>
   <br>
