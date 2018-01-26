@@ -7,19 +7,20 @@
 <ul>
   <li class="no-bullet">Eligibility
     <ul>
-      <li class="fragment no-bullet"><span style="font-size: 24px;">Anyone 16 or older</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 24px;">Anyone able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 24px;">Be in a physical and mental condition to safely operate a small UAS     </span></li>
-    <li class="fragment no-bullet"><span style="font-size: 24px;">Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center</span></li>
+      <li class="fragment no-bullet"><span style="font-size: 32px;">Anyone 16 or older</span></li>
+      <li class="fragment no-bullet"><span style="font-size: 32px;">Anyone able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)</span></li>
+      <li class="fragment no-bullet"><span style="font-size: 32px;">Be in a physical and mental condition to safely operate a small UAS     </span></li>
+    <li class="fragment no-bullet"><span style="font-size: 32px;">Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center</span></li>
     </ul>
   </li>
 </ul>
 <br>
-
-##### _**Does the test include a flying portion?**_
-
 <ul>
-  <li class="fragment no-bullet"><span style="font-size: 24px;">No, you will not be required to actually operate a drone as part of the exam</span></li>
+  <li class="fragment no-bullet">Does the test include a flying portion?
+    <ul>
+      <li class="fragment no-bullet"><span style="font-size: 24px;">No, you will not be required to actually operate a drone as part of the exam</span></li>
+    </ul>
+  </li>
 </ul>
 
 
