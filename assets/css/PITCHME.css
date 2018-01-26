@@ -70,6 +70,9 @@
   left: -8%;
   position: absolute;
 }
+.reveal ul .no-bullet {
+  list-style-type: none;
+}
 /* .reveal .slides .align-right {
     text-align: right;
 }
