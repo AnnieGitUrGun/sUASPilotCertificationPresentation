@@ -113,6 +113,13 @@
   z-index: -10;
   margin: 20% 35%;
 }
+
+.reveal div.center-img {
+  z-index: -10;
+  width: 55%;
+  margin: 15% 25%;
+}
+
 /* .reveal .slides .align-right {
     text-align: right;
 }
@@ -139,19 +146,6 @@
     padding: 0.2em 0.5em 0.2em 0.5em;
     border-bottom: 0px solid;
 }
-
-
-
-
-
-
-.reveal div.center-img {
-  z-index: -10;
-  width: 55%;
-  margin: 15% 25%;
-}
-
-
 
 .fa-twitter {
   color: #1da1f2;
