@@ -18,7 +18,7 @@
 @title[Commercial v Hobby]
 
 ### <span class="orange">Commercial Operation vs. Hobbyist</span>
-
+<br>
 <ul>
   <li class="no-bullet">[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
     <ul>
