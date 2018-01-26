@@ -105,6 +105,11 @@
   box-shadow: none;
   vertical-align: middle;
 }
+
+.reveal div.center {
+  z-index: -10;
+  margin: 20% 35%;
+}
 /* .reveal .slides .align-right {
     text-align: right;
 }
@@ -135,10 +140,7 @@
 
 
 
-.reveal div.center {
-  z-index: -10;
-  margin: 20% 35%;
-}
+
 
 .reveal div.center-img {
   z-index: -10;
