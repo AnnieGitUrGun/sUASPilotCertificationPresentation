@@ -13,12 +13,12 @@
 <iframe class="stretch" data-src="https://flightaware.com/live/airport_status_bigmap.rvt?airport=KBWI"></iframe>
 
 +++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
+
 
 @title[Commercial v Hobby]
 
-# Commercial Drone Operation vs. Hobbyists
-
+### <span class="orange">Commercial Drone Operation vs. Hobbyists</span>
+<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
 <br>
 
 ### [Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
