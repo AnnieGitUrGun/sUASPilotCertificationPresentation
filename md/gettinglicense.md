@@ -2,7 +2,7 @@
 
 @title[Getting Your Drone License]
 
-### Getting Your Drone License
+### <span class="orange">Getting Your Drone License</span>
 <br>
 <ul>
   <li class="no-bullet">Eligibility
@@ -37,13 +37,13 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[Training Options]
 
-### A Few Training Options
+### <span class="orange">A Few Training Options</span>
 <br>
 <span style="font-size:36px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
 
 <span style="font-size:36px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
 
-<span style="font-size:368px;">[College of Southern Maryland - AVN-5020](https://www.csmd.edu/programs-courses/non-credit/career-development/transportation/drone-certification)</span>
+<span style="font-size:36px;">[College of Southern Maryland - AVN-5020](https://www.csmd.edu/programs-courses/non-credit/career-development/transportation/drone-certification)</span>
 
 
 +++
@@ -51,7 +51,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[What To learn]
 
-# What you need to learn
+### <span class="orange">What you need to learn</span>
 
 <ul>
   <br>
@@ -66,7 +66,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[NAS]
 
-# Congested Air Space (Class A-G Airspace)
+### Congested Air Space (Class A-G Airspace)
 
 <br>
 
