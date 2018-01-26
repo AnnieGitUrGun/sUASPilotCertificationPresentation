@@ -5,7 +5,7 @@
 #### <span class="orange">The FAA Test Continued</span>
 <br>
 <table style="font-size:38px;">
-  <tr class="fragment">
+  <tr>
     <td>FAA Regulations</td>
     <td>**15-20%**</td>
   </tr>
