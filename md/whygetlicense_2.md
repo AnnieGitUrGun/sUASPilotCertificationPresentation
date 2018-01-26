@@ -2,10 +2,8 @@
 
 @title[Why Get a Drone License - Part 2]
 
-# Why Get a Drone License?
-
+#### <span class="orange">Why Get a Drone License?</span>
 <br>                                                   
-
 <ul>
   <li class="fragment"><span style="font-size: 26px;">For Businesses – Licensing is Crucial</span>
     <ul>
