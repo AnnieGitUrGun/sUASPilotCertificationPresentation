@@ -2,7 +2,7 @@
 
 @title[The FAA Test - Part 1]
 
-### <span class="orange">FAA Test Knowledge Areas</span>
+#### <span class="orange">FAA Test Knowledge Areas</span>
 <br>
 <ul>
 <li class="no-bullet"><span style="font-size:32px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
@@ -23,16 +23,14 @@
 @title[Knowledge Areas - Continued]
 
 #### Knowledge Areas - Continued
-
 <br>
-
-<ol>
-  <li><span style="font-size: 18px;">Radio communication procedures</span></li>
-  <li><span style="font-size: 18px;">Determining the performance of small unmanned aircraft</span></li>
-  <li><span style="font-size: 18px;">Physiological effects of drugs and alcohol</span></li>
-  <li><span style="font-size: 18px;">Aeronautical decision-making and judgment</span></li>
-  <li><span style="font-size: 18px;">Airport operations</span></li>
-  <li><span style="font-size: 18px;">Maintenance and preflight inspection procedures</span></li>  
+<ul>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">7. Radio communication procedures</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">8. Determining the performance of small unmanned aircraft</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">9. Physiological effects of drugs and alcohol</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">10. Aeronautical decision-making and judgment</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">11. Airport operations</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 28px;">12. Maintenance and preflight inspection procedures</span></li>  
 </ol>
 
 <ul>
