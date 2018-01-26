@@ -33,6 +33,7 @@
 
 .reveal p {
   line-height: 1;
+  font-size: smaller;
 }
 
 /* p .large-text {
@@ -90,7 +91,7 @@
   float: right;
   z-index: -10;
   width: 55%;
-  margin-top: 8%;
+  margin-top: 9%;
 }
 
 .reveal div.center {
