@@ -2,7 +2,7 @@
 
 @title[Agenda]
 
-#### The Agenda
+#### <span class="orange">The Agenda</span>
 
 <br>
 <br>

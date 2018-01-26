@@ -5,6 +5,10 @@
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   line-height: 1;
 }
+
+.orange {
+  color: #dd8047;
+}
 /* .reveal h1 {
   font-size: 40px;
   color: #dd8047;
