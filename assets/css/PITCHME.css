@@ -94,6 +94,12 @@
   width: 55%;
   margin-top: 9%;
 }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  vertical-align: middle;
+}
 /* .reveal .slides .align-right {
     text-align: right;
 }
@@ -120,11 +126,7 @@
     padding: 0.2em 0.5em 0.2em 0.5em;
     border-bottom: 0px solid;
 }
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-  vertical-align: middle;
-}
+
 
 
 
