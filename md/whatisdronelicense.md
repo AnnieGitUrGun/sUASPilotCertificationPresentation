@@ -4,7 +4,6 @@
 
 ### <span class="orange">What is a Drone License?</span>
 
-<br>
 <div class="left">
 
 ![Logo](assets/img/remotepilotlicense.png)
