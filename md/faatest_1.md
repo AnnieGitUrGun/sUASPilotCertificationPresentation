@@ -4,16 +4,18 @@
 
 ### <span class="orange">FAA Test Knowledge Areas</span>
 <br>
-<span style="font-size:32px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
 <ul>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation</span></li>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation</span></li>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Aviation weather sources and effects of weather on small unmanned aircraft performance</span></li>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Small unmanned aircraft loading</span></li>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Emergency procedures</span></li>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Crew resource management</span></li>
-</ul>  
-
+<li class="no-bullet"><span style="font-size:32px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
+  <ul>
+    <li class="fragment no-bullet"><span style="font-size: 28px;"> 1. Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation</span></li>
+    <li class="fragment no-bullet"><span style="font-size: 28px;">2. Airspace classification, operating requirements, and flight restrictions affecting small unmanned aircraft operation</span></li>
+    <li class="fragment no-bullet"><span style="font-size: 28px;">3. Aviation weather sources and effects of weather on small unmanned aircraft performance</span></li>
+    <li class="fragment no-bullet"><span style="font-size: 28px;">4. Small unmanned aircraft loading</span></li>
+    <li class="fragment no-bullet"><span style="font-size: 28px;">5. Emergency procedures</span></li>
+    <li class="fragment no-bullet"><span style="font-size: 28px;">6. Crew resource management</span></li>
+  </ul>  
+  </li>
+  </ul>
 
 +++
 <div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
