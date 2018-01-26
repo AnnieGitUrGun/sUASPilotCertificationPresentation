@@ -3,7 +3,7 @@
 @title[Why Get a Drone License - Part 2]
 
 #### <span class="orange">Why Get a Drone License?</span>
-                                                  
+<br>                                                  
 <ul>
   <li class="fragment"><span style="font-size: 26px;">For Businesses – Licensing is Crucial</span>
     <ul>
@@ -19,8 +19,8 @@
   <ul>
     <li class="fragment"><span style="font-size: 26px;">Understanding the limitations of being a commercial drone operator</span>
       <ul>
-        <li class="fragment"><span style="font-size: 26px;">Legal obligations (FAA, local, state and federal laws, etc.)</span></li>
-        <li class="fragment"><span style="font-size: 26px;">Flight Operations (must have 2 people)</span></li>
+        <li class="fragment no-bullet"><span style="font-size: 26px;">Legal obligations (FAA, local, state and federal laws, etc.)</span></li>
+        <li class="fragment no-bullet"><span style="font-size: 26px;">Flight Operations (must have 2 people)</span></li>
       </ul>
     </li>
     <li class="fragment"><span style="font-size: 26px;">Operational Waivers</span></li>
