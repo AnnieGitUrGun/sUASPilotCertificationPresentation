@@ -2,9 +2,8 @@
 
 @title[Why Get a Drone License - Part 1]
 
-# Why Get a Drone License?
+### Why Get a Drone License?
 
-<br>
 <div class="center">
 <span style="font-weight:600;">Consider this...</span>
 </div>
