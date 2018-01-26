@@ -29,8 +29,6 @@
       <li class="fragment no-bullet"><span style="font-size: 28px;">Obtain an airworthiness certificate for the Aircraft</span></li>
     </ul>
   </li>
-
-  <br>
   <br>
   <li class="fragment no-bullet">[Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr)
     <ul>
