@@ -2,10 +2,9 @@
 
 @title[Agenda]
 
-#### <span class="orange">The Agenda</span>
+### <span class="orange">The Agenda</span>
 
 <br>
-
 <ul>
   <li class="fragment">What is a drone license and why get one?</li>
   <br>
