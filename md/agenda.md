@@ -5,7 +5,6 @@
 #### <span class="orange">The Agenda</span>
 
 <br>
-<br>
 
 <ul>
   <li class="fragment no-bullet">What is a drone license and why get one?</li>
