@@ -13,7 +13,7 @@
 </div>
 
 <div class="right">
-<p class="large-text">The FAA Remote Pilot Certificate (a.k.a. Drone License) allows operators to fly a UAS for work, business, or non-recreational reasons</p>
+<p>The FAA Remote Pilot Certificate (a.k.a. Drone License) allows operators to fly a UAS for work, business, or non-recreational reasons</p>
 <!-- <span style="font-size:30px;">The FAA Remote Pilot Certificate (a.k.a. Drone License) allows operators to fly a UAS for work, business, or non-recreational reasons</span> -->
 
 </div>
