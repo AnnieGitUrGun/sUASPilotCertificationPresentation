@@ -22,7 +22,7 @@
 
 @title[Knowledge Areas - Continued]
 
-#### Knowledge Areas - Continued
+#### <span class="orange">Knowledge Areas - Continued</span>
 <br>
 <ul>
   <li class="fragment no-bullet"><span style="font-size: 28px;">7. Radio communication procedures</span></li>
