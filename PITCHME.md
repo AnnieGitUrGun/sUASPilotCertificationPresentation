@@ -5,8 +5,7 @@
 ### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Getting Your</span>
 ### <span style="color:#fff;text-shadow: 2px 2px #5b6269;">Commercial Drone License</span>
 <br>
-<span style="color:#fff;text-shadow: 2px 2px #5b6269;">14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles</span>
-<br>
+<h5 style="color:#fff;text-shadow: 2px 2px #5b6269;">14 CFR Part 107 – Commercial Use of Unmanned Aerial Vehicles</h5>
 <br>
 <br>
 <span style="font-size:smaller;color:#fff;text-shadow: 2px 2px #5b6269;">Scott Jeffrey, Community College of Baltimore County</span>
