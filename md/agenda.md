@@ -11,10 +11,10 @@
   <li class="fragment no-bullet">What is a drone license and why get one?</li>
   <li class="fragment">The Drone Licensing Experience:
     <ul>
-      <li class="fragment">What to expect and how to prepare</li>
-      <li class="fragment">Coursework and flight training</li>
-      <li class="fragment">The FAA Test</li>
-      <li class="fragment">Applying for your license</li>
+      <li class="fragment no-bullet">What to expect and how to prepare</li>
+      <li class="fragment no-bullet">Coursework and flight training</li>
+      <li class="fragment no-bullet">The FAA Test</li>
+      <li class="fragment no-bullet">Applying for your license</li>
     </ul>
   </li>
 </ul>

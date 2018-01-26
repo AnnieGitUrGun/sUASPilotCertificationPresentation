@@ -73,6 +73,9 @@
 .reveal ul .no-bullet {
   list-style-type: none;
 }
+.current-fragment {
+  color: #dd8047;
+}
 /* .reveal .slides .align-right {
     text-align: right;
 }
