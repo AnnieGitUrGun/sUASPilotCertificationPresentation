@@ -8,6 +8,7 @@
 
 <ul>
   <li class="fragment no-bullet">What is a drone license and why get one?</li>
+  <br>
   <li class="fragment">The Drone Licensing Experience:
     <ul>
       <li class="fragment no-bullet">What to expect and how to prepare</li>
