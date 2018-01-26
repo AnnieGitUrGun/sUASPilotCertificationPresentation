@@ -2,19 +2,19 @@
 
 @title[Agenda]
 
-# The Agenda
+#### The Agenda
 
 <br>
 <br>
 
 <ul>
-  <li class="fragment"><span style="font-size: 28px;">What is a drone license and why get one?</span> </li>
-  <li class="fragment"><span style="font-size: 28px;">The Drone Licensing Experience:</span>
+  <li class="fragment">What is a drone license and why get one?</li>
+  <li class="fragment">The Drone Licensing Experience:
     <ul>
-      <li class="fragment"><span style="font-size: 28px;">What to expect and how to prepare</span> </li>
-      <li class="fragment"><span style="font-size: 28px;">Coursework and flight training</span> </li>
-      <li class="fragment"><span style="font-size: 28px;">The FAA Test</span> </li>
-      <li class="fragment"><span style="font-size: 28px;">Applying for your license</span> </li>
+      <li class="fragment">What to expect and how to prepare</li>
+      <li class="fragment">Coursework and flight training</li>
+      <li class="fragment">The FAA Test</li>
+      <li class="fragment">Applying for your license</li>
     </ul>
   </li>
 </ul>
