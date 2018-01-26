@@ -5,7 +5,7 @@
 #### <span class="orange">Why Get a Drone License?</span>
 <br>                                                   
 <ul>
-  <li class="fragment">For Businesses – Licensing is Crucial
+  <li class="fragment"><span style="font-size: 26px;">For Businesses – Licensing is Crucial</span>
     <ul>
       <li class="fragment"><span style="font-size: 26px;">Understanding Liability</span></li>
         <ul>
