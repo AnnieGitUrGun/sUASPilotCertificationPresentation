@@ -2,10 +2,8 @@
 
 @title[The FAA Test - Part 1]
 
-# The FAA Test
-
+### <span class="orange">The FAA Test</span>
 <br>
-
 ##### Knowledge Areas on the Tests
 
 <span style="font-size:20px;">The Unmanned Aircraft General – Small Airman knowledge test covers the following knowledge areas:</span>
@@ -24,7 +22,7 @@
 
 @title[Knowledge Areas - Continued]
 
-# Knowledge Areas - Continued
+#### Knowledge Areas - Continued
 
 <br>
 
