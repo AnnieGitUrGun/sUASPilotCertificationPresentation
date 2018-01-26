@@ -120,6 +120,10 @@
   margin: 15% 25%;
 }
 
+.fa-twitter {
+  color: #1da1f2;
+} 
+
 /* .reveal .slides .align-right {
     text-align: right;
 }
@@ -147,6 +151,4 @@
     border-bottom: 0px solid;
 }
 
-.fa-twitter {
-  color: #1da1f2;
-} */
+*/
