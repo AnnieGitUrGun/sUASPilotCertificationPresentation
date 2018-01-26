@@ -22,16 +22,16 @@
 <ul>
   <li class="no-bullet">[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
     <ul>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Follow the rules in Section 333 grant of exemption</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Obtain an airworthiness certificate for the Aircraft</span></li>
+      <li class="fragment no-bullet">Fly under the Small UAS Rule (14 CFR part 107)</li>
+      <li class="fragment no-bullet">Follow the rules in Section 333 grant of exemption</li>
+      <li class="fragment no-bullet">Obtain an airworthiness certificate for the Aircraft</li>
     </ul>
   </li>
   <br>
   <li class="fragment no-bullet">[Hobbyists can:](https://www.faa.gov/uas/faqs/#ffr)
     <ul>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336)</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span></li>
+      <li class="fragment no-bullet">Fly in accordance with Special Rule for Model Aircraft (Public Law 112-95 Section 336)</li>
+      <li class="fragment no-bullet">Fly under the Small UAS Rule (14 CFR part 107)</li>
     </ul>
   </li>
 </ul>
@@ -44,9 +44,9 @@
 #### <span class="orange">Understanding the Flight Environment</span>
 <br>
 <ul>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">We are in one of the most congested airspaces in the world</span></li>
+  <li class="fragment no-bullet">We are in one of the most congested airspaces in the world</li>
   <br>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">There are <a href="http://ourairports.com/countries/US/MD/">255 airports</a> in Maryland</span></li>
+  <li class="fragment no-bullet">There are <a href="http://ourairports.com/countries/US/MD/">255 airports</a> in Maryland</li>
   <br>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Our proximity to Washington, D.C. and military sites makes things even more complicated</span></li>
+  <li class="fragment no-bullet">Our proximity to Washington, D.C. and military sites makes things even more complicated</li>
 </ul>
