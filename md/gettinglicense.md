@@ -56,7 +56,7 @@ You won't be graded on your flying ability but you should get some flying experi
 <ul>
   <li class="no-bullet"><span style="font-size: 36px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
 </ul>
-
+<br>
 <div class="center-img">
 ![Logo](assets/img/airspace_chart.png)
 </div>
