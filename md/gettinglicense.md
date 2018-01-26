@@ -39,6 +39,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 #### <span class="orange">A Few Training Options</span>
 <br>
+<br>
 <span style="font-size:36px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
 
 <span style="font-size:36px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
