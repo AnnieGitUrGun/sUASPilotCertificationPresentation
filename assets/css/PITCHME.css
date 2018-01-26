@@ -9,6 +9,11 @@
 .orange {
   color: #dd8047;
 }
+
+.reveal p {
+    margin: 20px 0;
+    line-height: 1;
+}
 /* .reveal h1 {
   font-size: 40px;
   color: #dd8047;
