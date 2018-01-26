@@ -2,32 +2,28 @@
 
 @title[Why Get a Drone License - Part 2]
 
-# Why Get a Drone License?
-
-<br>                                                   
-
+#### <span class="orange">Why Get a Drone License?</span>
+<br>                                                  
 <ul>
-  <li class="fragment"><span style="font-size: 26px;">For Businesses – Licensing is Crucial</span>
+  <li class="fragment"><span style="font-size: 32px;">For Businesses – Licensing is Crucial</span>
     <ul>
-      <li class="fragment"><span style="font-size: 26px;">Understanding Liability</span></li>
+      <li class="fragment"><span style="font-size: 32px;">Understanding Liability</span></li>
         <ul>
-          <li class="fragment"><span style="font-size: 26px;">Liability Insurance for flight operations</span></li>
-          <li class="fragment"><span style="font-size: 26px;">Liability Insurance for drones</span></li>
-          <li class="fragment"><span style="font-size: 26px;">Liability Insurance for operators</span></li>
+          <li class="fragment no-bullet"><span style="font-size: 32px;">Liability Insurance for flight operations</span></li>
+          <li class="fragment no-bullet"><span style="font-size: 32px;">Liability Insurance for drones</span></li>
+          <li class="fragment no-bullet"><span style="font-size: 32px;">Liability Insurance for operators</span></li>
         </ul>
-      <li class="fragment"><span style="font-size: 26px;">Public Relations and Operations</span></li>
+      <li class="fragment"><span style="font-size: 32px;">Public Relations and Operations</span></li>
     </ul>
   </li>
-
   <ul>
-
-    <li class="fragment"><span style="font-size: 26px;">Understanding the limitations of being a commercial drone operator</span>
+    <li class="fragment"><span style="font-size: 32px;">Understanding the limitations of being a commercial drone operator</span>
       <ul>
-        <li class="fragment"><span style="font-size: 26px;">Legal obligations (FAA, local, state and federal laws, etc.)</span></li>
-        <li class="fragment"><span style="font-size: 26px;">Flight Operations (must have 2 people)</span></li>
+        <li class="fragment no-bullet"><span style="font-size: 32px;">Legal obligations (FAA, local, state and federal laws, etc.)</span></li>
+        <li class="fragment no-bullet"><span style="font-size: 32px;">Flight Operations (must have 2 people)</span></li>
       </ul>
     </li>
-    <li class="fragment"><span style="font-size: 26px;">Operational Waivers</span></li>
+    <li class="fragment"><span style="font-size: 32px;">Operational Waivers</span></li>
   </ul>
   </li>
 </ul>

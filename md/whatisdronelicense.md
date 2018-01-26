@@ -2,9 +2,7 @@
 
 @title[What is a Drone License]
 
-# What is a Drone License?
-
-<br>
+### <span class="orange">What is a Drone License?</span>
 
 <div class="left">
 

@@ -2,25 +2,30 @@
 
 @title[Getting Your Drone License]
 
-# Getting Your Drone License
-
+#### <span class="orange">Getting Your Drone License</span>
 <br>
-
-##### _**Eligibility**_
-
 <ul>
-  <li class="fragment"><span style="font-size: 24px;">Anyone 16 or older</span></li>
-  <li class="fragment"><span style="font-size: 24px;">Anyone able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)</span></li>
-  <li class="fragment"><span style="font-size: 24px;">Be in a physical and mental condition to safely operate a small UAS </span></li>
-  <li class="fragment"><span style="font-size: 24px;">Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center</span></li>
+  <li class="no-bullet">Eligibility
+    <ul>
+      <li class="fragment no-bullet"><span style="font-size: 30px;">Anyone 16 or older</span></li>
+      <li class="fragment no-bullet"><span style="font-size: 30px;">Anyone able to read, speak, write, and understand English
+        <ul>
+         <li class="fragment no-bullet"><span style="font-size: 30px;">Exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment</span></li>
+         </ul>
+         </li>
+      <li class="fragment no-bullet"><span style="font-size: 30px;">Be in a physical and mental condition to safely operate a small UAS     </span></li>
+    <li class="fragment no-bullet"><span style="font-size: 30px;">Pass the initial aeronautical knowledge exam at an FAA-approved knowledge testing center</span></li>
+    </ul>
+  </li>
 </ul>
-
 <br>
-
-##### _**Does the test include a flying portion?**_
-
+<br>
 <ul>
-  <li class="fragment"><span style="font-size: 24px;">No, you will not be required to actually operate a drone as part of the exam</span></li>
+  <li class="fragment no-bullet">Does the test include a flying portion?
+    <ul>
+      <li class="fragment no-bullet"><span style="font-size: 30px;">No, you will not be required to actually operate a drone as part of the exam</span></li>
+    </ul>
+  </li>
 </ul>
 
 
@@ -32,16 +37,14 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[Training Options]
 
-# A Few Training Options
-
+#### <span class="orange">A Few Training Options</span>
 <br>
 <br>
+<span style="font-size:36px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
 
-<span style="font-size:28px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
+<span style="font-size:36px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
 
-<span style="font-size:28px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
-
-<span style="font-size:28px;">[College of Southern Maryland - AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)</span>
+<span style="font-size:36px;">[College of Southern Maryland - AVN-5020](https://www.csmd.edu/programs-courses/non-credit/career-development/transportation/drone-certification)</span>
 
 
 +++
@@ -49,30 +52,14 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[What To learn]
 
-# What you need to learn
-
-<ul>
-  <br>
-  <li class="fragment"><span style="font-size: 28px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
-  <br>
-  <li class="fragment"><span style="font-size: 28px;">You must understand this system if you want to obtain your license </span></li>
-</ul>
-
-
-+++
-<div class="slide-bg-style-left"></div><div class="slide-bg-style-right"></div>
-
-@title[NAS]
-
-# Congested Air Space (Class A-G Airspace)
-
+#### <span class="orange">What you need to learn</span>
 <br>
-
-<div class="center-img">
+<ul>
+  <li class="no-bullet"><span style="font-size: 36px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
+</ul>
+<br>
 ![Logo](assets/img/airspace_chart.png)
-</div>
 
-Note:
 
 +++?image=assets/img/airchart.png&size=contain
 

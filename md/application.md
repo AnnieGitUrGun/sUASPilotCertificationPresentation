@@ -2,15 +2,19 @@
 
 @title[Applying for Your License]
 
-# Applying for Your License
+#### <span class="orange">Applying for Your License</span>
 
 <ul>
   <br>
-  <li class="fragment"><span style="font-size: 28px;">Register and login to [IACRA](https://iacra.faa.gov/IACRA/Default.aspx)</span></li>
-  <li class="fragment"><span style="font-size: 28px;">Fill out application (FAA Form 8710-13) to get license</span></li>
-  <li class="fragment"><span style="font-size: 28px;">FAA will issue a temporary license once the TSA security background check has been completed</span></li>
-  <li class="fragment"><span style="font-size: 28px;">A permanent license is sent via mail after internal processing is complete</span></li>
-  <li class="fragment"><span style="font-size: 28px;">Your license is good for <span style="font-weight:600;color:#dd8047;">2 years</span> from the date of issue</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 32px;">Register and login to [IACRA](https://iacra.faa.gov/IACRA/Default.aspx)</span></li>
+  <br>
+  <li class="fragment no-bullet"><span style="font-size: 32px;">Fill out application (FAA Form 8710-13) to get license</span></li>
+  <br>
+  <li class="fragment no-bullet"><span style="font-size: 32px;">FAA will issue a temporary license once the TSA security background check has been completed</span></li>
+  <br>
+  <li class="fragment no-bullet"><span style="font-size: 32px;">A permanent license is sent via mail after internal processing is complete</span></li>
+  <br>
+  <li class="fragment no-bullet"><span style="font-size: 32px;">Your license is good for <span style="font-weight:600;color:#dd8047;">2 years</span> from the date of issue</span></li>
 </ul>
 
 
