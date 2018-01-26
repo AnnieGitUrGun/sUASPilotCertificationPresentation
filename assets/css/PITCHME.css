@@ -83,6 +83,7 @@
 }
 .reveal ul .no-bullet {
   list-style-type: none;
+  line-height: 1;
 }
 .current-fragment {
   color: #dd8047;
