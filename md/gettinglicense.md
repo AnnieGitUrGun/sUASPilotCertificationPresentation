@@ -2,13 +2,10 @@
 
 @title[Getting Your Drone License]
 
-# Getting Your Drone License
-
+### Getting Your Drone License
 <br>
-
-##### _**Eligibility**_
-
 <ul>
+<li class="fragment">Eligibility</li>
   <li class="fragment"><span style="font-size: 24px;">Anyone 16 or older</span></li>
   <li class="fragment"><span style="font-size: 24px;">Anyone able to read, speak, write, and understand English (exceptions may be made if the person is unable to meet one of these requirements for a medical reason, such as hearing impairment)</span></li>
   <li class="fragment"><span style="font-size: 24px;">Be in a physical and mental condition to safely operate a small UAS </span></li>
