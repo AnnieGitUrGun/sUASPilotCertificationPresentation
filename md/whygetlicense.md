@@ -22,8 +22,8 @@
 <ul>
   <li class="no-bullet">[Commercial Operators can:](https://www.faa.gov/uas/faqs/#fwb)
     <ul>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Fly under the Small UAS Rule (14 CFR part 107)</span></li>
-      <li class="fragment no-bullet"><span style="font-size: 28px;">Follow the rules in Section 333 grant of exemption</span></li>
+      <li class="fragment no-bullet">Fly under the Small UAS Rule (14 CFR part 107)</li>
+      <li class="fragment no-bullet">Follow the rules in Section 333 grant of exemption</li>
       <li class="fragment no-bullet"><span style="font-size: 28px;">Obtain an airworthiness certificate for the Aircraft</span></li>
     </ul>
   </li>
