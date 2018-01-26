@@ -1,4 +1,4 @@
-#theme-override : assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
 logo : assets/img/logo_drone.png
 vertical-center : false
 theme : black
