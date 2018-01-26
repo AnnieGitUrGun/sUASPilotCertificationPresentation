@@ -2,10 +2,10 @@
 
 @title[The FAA Test - Part 2]
 
-#### <span class="orange">The FAA Test Continued</span>
+#### <span class="orange">The FAA Test Structure</span>
 <br>
 <table style="font-size:38px;">
-  <tr>
+  <tr class="fragment">
     <td>FAA Regulations</td>
     <td>**15-20%**</td>
   </tr>
