@@ -37,16 +37,13 @@ You won't be graded on your flying ability but you should get some flying experi
 
 @title[Training Options]
 
-# A Few Training Options
-
+### A Few Training Options
 <br>
-<br>
+<span style="font-size:36px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
 
-<span style="font-size:28px;">[Carroll Community College - Drone Pilot Training Program](https://www.carrollcc.edu/sites/carroll/Templates/ContentPreview.aspx?id=13309)</span>
+<span style="font-size:36px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
 
-<span style="font-size:28px;">[Community College of Baltimore County - VOA 103](https://flexreg.ccbcmd.edu/flexibleregistration/index.jsp?frc=CE)</span>
-
-<span style="font-size:28px;">[College of Southern Maryland - AVN-5020](https://express.csmd.edu/Online/Services?TOKENIDX=1031438944&SS=1&APP=ST&CONSTITUENCY=WBCE)</span>
+<span style="font-size:368px;">[College of Southern Maryland - AVN-5020](https://www.csmd.edu/programs-courses/non-credit/career-development/transportation/drone-certification)</span>
 
 
 +++
@@ -58,7 +55,7 @@ You won't be graded on your flying ability but you should get some flying experi
 
 <ul>
   <br>
-  <li class="fragment"><span style="font-size: 28px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
+  <li class="fragment"><span style="font-size: 36px;">The National Airspace System (NAS) includes both controlled and uncontrolled airspace</span></li>
   <br>
   <li class="fragment"><span style="font-size: 28px;">You must understand this system if you want to obtain your license </span></li>
 </ul>
