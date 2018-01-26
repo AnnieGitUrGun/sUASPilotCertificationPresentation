@@ -44,9 +44,9 @@
 #### <span class="orange">Understanding the Flight Environment</span>
 <br>
 <ul>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">We are in one of the most congested airspaces in the world</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 36px;">We are in one of the most congested airspaces in the world</span></li>
   <br>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">There are <a href="http://ourairports.com/countries/US/MD/">255 airports</a> in Maryland</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 36px;">There are <a href="http://ourairports.com/countries/US/MD/">255 airports</a> in Maryland</span></li>
   <br>
-  <li class="fragment no-bullet"><span style="font-size: 28px;">Our proximity to Washington, D.C. and military sites makes things even more complicated</span></li>
+  <li class="fragment no-bullet"><span style="font-size: 36px;">Our proximity to Washington, D.C. and military sites makes things even more complicated</span></li>
 </ul>
