@@ -35,6 +35,9 @@
   font-size: 16px;
 }
 
+.reveal p .large-text {
+  font-size: 32px;
+}
 
 
 .reveal .slides {
