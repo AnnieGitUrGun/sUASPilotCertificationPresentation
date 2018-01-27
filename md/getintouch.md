@@ -2,17 +2,17 @@
 
 @title[Contact Us]
 
-# Contact Us
+#### <span class="orange">Contact Us</span>
 
 <br>
 <br>
 
-<span style="font-size:28px;">Scott Jeffrey</span><br>
+Scott Jeffrey<br>
 <span style="font-size:28px;font-weight:600;">sjeffrey@ccbcmd.edu</span>
 
 <br>
 <br>
 
-<span style="font-size:28px;">Anne Canoune</span><br>
+Anne Canoune<br>
 <span style="font-size:28px;font-weight:600;">acanoune@centuryeng.com</span><br>
 <span style="font-size:28px;">@fa[twitter] @AnnieGitUrGun</span>
