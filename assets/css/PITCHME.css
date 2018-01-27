@@ -1,5 +1,5 @@
 /*
-==Font Overrides
+==Reveal.js Overrides
 */
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
@@ -14,47 +14,6 @@
     margin: 20px 0;
     line-height: 1;
 }
-
-
-/* .reveal h1 {
-  font-size: 40px;
-  color: #dd8047;
-}
-
-.reveal h2 {
-  font-size: 32px;
-  color: #dd8047;
-}
-
-.reveal .orange h3 {
-  font-size: 28px;
-  color: #dd8047;
-}
-
-.reveal h4 {
-  font-size: 24px;
-  color: #dd8047;
-}
-
-.reveal h5 {
-  font-size: 20px;
-  color: #dd8047;
-}
-
-.reveal h6 {
-  font-size: 16px;
-  color: #dd8047;
-}
-
-.reveal p {
-  line-height: 1;
-  font-size: smaller;
-} */
-
-/* p .large-text {
-  font-size: 32px;
-} */
-
 
 .reveal .slides {
     text-align: left;
@@ -122,33 +81,4 @@
 
 .fa-twitter {
   color: #1da1f2;
-} 
-
-/* .reveal .slides .align-right {
-    text-align: right;
 }
-.reveal ul {
-  list-style-type: none;
-}
-.reveal ul ul {
-  list-style-type: none;
-}
-.reveal ul ul ul {
-  list-style-type: none;
-}
-.reveal ol {
-  list-style-type: none;
-}
-.reveal ol ol {
-  list-style-type: none;
-}
-.reveal ol ol ol {
-  list-style-type: none;
-}
-.reveal table th, .reveal table td {
-    text-align: left;
-    padding: 0.2em 0.5em 0.2em 0.5em;
-    border-bottom: 0px solid;
-}
-
-*/
